@@ -1,0 +1,5 @@
+P001,Laptop gamer,10,900.00,1000.00
+P002,Nintendo Switch 2,3,450.00,550.00
+P003,PlayStation 5,300,450.00,450.00
+P004,Teclado gamer,677,25.00,40.00
+P005,Monitor gamer,500,120.00,200.00

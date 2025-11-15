@@ -1,0 +1,3 @@
+profe,0000,Profesor
+geova,1234,Geovanny Lacouture
+dante,abcd,Dante Alava
